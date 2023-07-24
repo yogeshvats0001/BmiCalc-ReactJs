@@ -1,0 +1,37 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 300px;
+}
+
+.Bmi__container{
+    width : 200px;
+    height : 300px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    padding: 25px;
+}
+
+.p__container{
+    font-size: 12px;
+}
+
+.input__container{
+    font-size: 15px;
+}
+
+.submit__btn{
+    color: blue;
+    margin: 18px;
+    font-size: 15px;
+}
+
+.reload__btn{
+    color: red;
+    margin: 18px;
+    font-size: 15px;
+}
+
+.bmi__p{
+    font-size: 20px;
+}
